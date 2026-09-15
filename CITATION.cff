@@ -29,8 +29,8 @@ date-released: "2026-06-01"
 license: "Apache-2.0"
 
 doi: "10.5281/zenodo.20478121"
-repository-code: "https://github.com/mj3b/applied-ai-research-translator"
-url: "https://github.com/mj3b/applied-ai-research-translator"
+repository-code: "https://github.com/node-and-norm/applied-ai-research-translator"
+url: "https://github.com/node-and-norm/applied-ai-research-translator"
 
 keywords:
   - "AI governance"
@@ -63,8 +63,8 @@ preferred-citation:
   date-released: "2026-06-01"
   license: "Apache-2.0"
   doi: "10.5281/zenodo.20478121"
-  repository-code: "https://github.com/mj3b/applied-ai-research-translator"
-  url: "https://github.com/mj3b/applied-ai-research-translator"
+  repository-code: "https://github.com/node-and-norm/applied-ai-research-translator"
+  url: "https://github.com/node-and-norm/applied-ai-research-translator"
   abstract: >-
     Applied AI Research Translator is an open-source research software artifact
     for converting applied AI research into governed, audit-ready decision

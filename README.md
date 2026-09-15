@@ -1,11 +1,15 @@
 # Research-to-Decision Translator
 
+[Node & Norm research directory](https://github.com/node-and-norm) · Research workflow infrastructure for traceable, human-reviewed decision records.
+
+Repository stewardship moved to Node & Norm on 2026-09-15. Published versions, authorship, and research-status claims retain their existing scope.
+
 **Repository:** `applied-ai-research-translator`
 
 A governed artifact system for translating applied AI research into audit-ready decision records.
 
 [![DOI](https://zenodo.org/badge/1121938011.svg)](https://doi.org/10.5281/zenodo.20478120)
-[![Release: v1.1.1](https://img.shields.io/badge/release-v1.1.1-0aa2c0)](https://github.com/mj3b/applied-ai-research-translator/releases/tag/v1.1.1)
+[![Release: v1.1.1](https://img.shields.io/badge/release-v1.1.1-0aa2c0)](https://github.com/node-and-norm/applied-ai-research-translator/releases/tag/v1.1.1)
 [![Status: Research-Grade Archival Release](https://img.shields.io/badge/status-research--grade%20archival%20release-5b6cff)](#status)
 [![AI Stance: Non-Agentic](https://img.shields.io/badge/AI-non--agentic-2d7ff9)](#where-ai-assistance-enters)
 [![Governance: Human-in-the-Loop](https://img.shields.io/badge/governance-human--in--the--loop-3bb273)](#human-gate)
@@ -209,7 +213,7 @@ This quick start is designed for reviewers who want to inspect the governance pa
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mj3b/applied-ai-research-translator.git
+git clone https://github.com/node-and-norm/applied-ai-research-translator.git
 cd applied-ai-research-translator
 ```
 
