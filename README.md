@@ -1,3 +1,9 @@
+> **Research status, as of November 11, 2026: Research software and reference implementation.**
+>
+> **What this repository holds.** Source packs, artifact schemas, example runners and retained demonstrations for tracing research claims into decision records.
+>
+> **What remains open.** Source fidelity, reviewer quality and any improvement in institutional decisions require further evidence.
+
 <h1>
 <picture>
   <source media="(max-width: 600px)" srcset="assets/research/v1/banner-mobile-dark.svg">
